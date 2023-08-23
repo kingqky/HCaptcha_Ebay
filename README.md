@@ -12,7 +12,8 @@ git clone https://github.com/Python3WebSpider/HCaptchaResolver.git
 
 Then go to https://yescaptcha.com/i/CnZPBu and register your account, then get a `clientKey` from portal.
 
-![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/d7fa9819-4e7b-412f-887b-c3089e7481f2)
+![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/02d26fe0-1e8a-47c0-b271-e1e08d96baa0)
+
 
 Then create a `.env` file in root of this repo, and write this content:
 
@@ -32,5 +33,7 @@ python3 main.py
 ```
 
 Result:
-![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/8cc800ae-8292-45ec-9ad3-c6aaffff9c7d)
-![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/b4431e16-b2af-4c62-becb-b0f8ad853621)
+![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/f43266aa-7864-4c2b-b76e-7eb5bfc487b7)
+
+![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/a40c175e-a06f-4197-805f-4acb1d494615)
+
