@@ -11,6 +11,7 @@ git clone https://github.com/Python3WebSpider/HCaptchaResolver.git
 ```
 
 Then go to https://yescaptcha.com/i/CnZPBu and register your account, then get a `clientKey` from portal.
+
 ![image](https://github.com/kingqky/HCaptcha_Ebay/assets/99392534/d7fa9819-4e7b-412f-887b-c3089e7481f2)
 
 Then create a `.env` file in root of this repo, and write this content:
